@@ -16,6 +16,8 @@
     <PackageTags>Model-View-ViewModel, MVVM</PackageTags>
     <PackageProjectUrl>https://github.com/tudoranghelina91/YAMVVM</PackageProjectUrl>
     <RepositoryType>Git</RepositoryType>
+    <Copyright>Tudor Anghelina</Copyright>
+    <Description>YAMVVM is a set of MVVM Helper Libraries. It contains implementations of RelayCommand, ViewModelBase with OnPropertyChanged etc.</Description>
   </PropertyGroup>
 
   <ItemGroup>
