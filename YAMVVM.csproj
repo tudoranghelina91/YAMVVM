@@ -12,6 +12,10 @@
     <Authors>Tudor Anghelina</Authors>
     <Company />
     <PackageIcon>YAMVVM.png</PackageIcon>
+    <RepositoryUrl>https://github.com/tudoranghelina91/YAMVVM.git</RepositoryUrl>
+    <PackageTags>Model-View-ViewModel, MVVM</PackageTags>
+    <PackageProjectUrl>https://github.com/tudoranghelina91/YAMVVM</PackageProjectUrl>
+    <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
