@@ -9,12 +9,19 @@
     <FileVersion>0.0.1.0</FileVersion>
     <NeutralLanguage>en</NeutralLanguage>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Tudor Anghelina</Authors>
+    <Company />
+    <PackageIcon>YAMVVM.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="Test.WPF\**" />
     <EmbeddedResource Remove="Test.WPF\**" />
     <None Remove="Test.WPF\**" />
+    <None Include="YAMVVM\YAMVVM.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
